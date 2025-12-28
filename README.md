@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jpvonoy
-- 👀 I’m interested in microcontrollers, web development, mobile apps, ML, AI
-- 🌱 I’m currently learning Flutter
+- 👀 I’m interested in embedded development, web development, mobile apps
+- 🌱 I’m currently learning ML, AI
 <!--- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... --->
 
