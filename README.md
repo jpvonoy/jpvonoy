@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jpvonoy
-- 👀 I’m interested in embedded development, web development, mobile apps
+- 👀 I’m interested in building privacy focused integrated systems incorporating embedded development, web, mobile, and AI.
 - 🌱 I’m currently learning ML, AI
 <!--- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... --->
